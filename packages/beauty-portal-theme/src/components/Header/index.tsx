@@ -25,7 +25,7 @@ const Header: FunctionComponent = () => {
         <div className={classes.headerContentWrapper}>
           <div className={classes.logo}>
             <Link className={classes.logoLink} to="/">
-              Beauty <span>Portal</span>
+              Liberty <span>Portal</span>
             </Link>
           </div>
           <SiteNavigation />
