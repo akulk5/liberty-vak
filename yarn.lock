@@ -17446,7 +17446,7 @@ node-fetch@2.1.2:
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.1.2.tgz#ab884e8e7e57e38a944753cec706f788d1768bb5"
   integrity sha1-q4hOjn5X44qUR1POxwb3iNF2i7U=
 
-node-fetch@2.6.0, node-fetch@^2.3.0, node-fetch@^2.5.0, node-fetch@^2.6.0:
+node-fetch@2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
   integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
@@ -17458,6 +17458,11 @@ node-fetch@^1.0.1:
   dependencies:
     encoding "^0.1.11"
     is-stream "^1.0.1"
+
+node-fetch@^2.3.0, node-fetch@^2.5.0, node-fetch@^2.6.0:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-forge@0.9.0:
   version "0.9.0"
@@ -20397,6 +20402,11 @@ react-instantsearch-dom@^6.5.0:
     classnames "^2.2.5"
     prop-types "^15.5.10"
     react-instantsearch-core "^6.6.0"
+
+react-intersection-observer@^8.26.2:
+  version "8.28.5"
+  resolved "https://registry.yarnpkg.com/react-intersection-observer/-/react-intersection-observer-8.28.5.tgz#4c44c42740f7a28cb1b3a7182c74b4f05bbe9b67"
+  integrity sha512-Y5oi1+6b8QBvTTczmOYHEAcQ21AU/at5joZUf8L3cNWwnB5fScV0on5I/PiHczHeq9YGG/abXpkjFvaSJIB0Pg==
 
 react-intl@^2.2.2:
   version "2.9.0"
