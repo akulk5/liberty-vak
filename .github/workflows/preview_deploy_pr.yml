@@ -161,7 +161,7 @@ jobs:
               cat cypress.json
               echo $PREVIEW_URL    
           - name: Cypress Run
-            uses: cypress-io/github-action@v1
+            uses: cypress-io/github-action@v2
             env:
              CYPRESS_baseUrl:  ${{ needs.deploy_preview.outputs.url }}
             with:
