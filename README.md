@@ -10,6 +10,7 @@ This repo includes several packages:
 1. `web` supports configuration files (`packages/web/.env.production`, `packages/web/.env.development`) where you can specify required env vars.
 
 Currently, we have included all the environment variables for you inside provisioning, in case you want addition functionality like addition of sanity read token just include environment variables as follows: 
+test
 
 ````
 app_local_sanityToken = "yourTokenValue"
